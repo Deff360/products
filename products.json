@@ -1,0 +1,124 @@
+{ 
+"products":
+[{
+    "Product": "Coca-cola", 
+    "Menuid": 1, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/kXjRkL", 
+    "ID": 1, 
+    "Size": "750ml"
+  }, 
+  {
+    "Product": "Coca-cola", 
+    "Menuid": 1, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/kXjRkL", 
+    "ID": 2, 
+    "Size": "1L"
+  }, 
+  {
+    "Product": "Sprite", 
+    "Menuid": 1, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/kXjRkL", 
+    "ID": 3, 
+    "Size": 750
+  }, 
+  {
+    "Product": "Sprite", 
+    "Menuid": 1, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/kXjRkL", 
+    "ID": 4, 
+    "Size": "1L"
+  }, 
+  {
+    "Product": "Spa-Leta", 
+    "Menuid": 1, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/kXjRkL", 
+    "ID": 5, 
+    "Size": "750ml"
+  }, 
+  {
+    "Product": "Spa-Leta", 
+    "Menuid": 1, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/kXjRkL", 
+    "ID": 6, 
+    "Size": "1L"
+  }, 
+  {
+    "Product": "Stoney", 
+    "Menuid": 1, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/kXjRkL", 
+    "ID": 7, 
+    "Size": "1L"
+  }, 
+  {
+    "Product": "Stoney", 
+    "Menuid": 1, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/kXjRkL", 
+    "ID": 8, 
+    "Size": "750ml"
+  }, 
+  {
+    "Product": "Simba", 
+    "Menuid": 2, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/dAvozf", 
+    "ID": 9, 
+    "Size": "250g"
+  }, 
+  {
+    "Product": "Simba", 
+    "Menuid": 2, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/dAvozf", 
+    "ID": 10, 
+    "Size": "750g"
+  }, 
+  {
+    "Product": "Simba chee", 
+    "Menuid": 2, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/dAvozf", 
+    "ID": 11, 
+    "Size": "750g"
+  }, 
+  {
+    "Product": "Simba chee", 
+    "Menuid": 2, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/dAvozf", 
+    "ID": 12, 
+    "Size": "250g"
+  }, 
+  {
+    "Product": "Simba Nik-", 
+    "Menuid": 2, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/dAvozf", 
+    "ID": 13, 
+    "Size": "250g"
+  }, 
+  {
+    "Product": "Simba Nik-", 
+    "Menuid": 2, 
+    "Cost": 0, 
+    "Link": "https://ibb.co/dAvozf", 
+    "ID": 14, 
+    "Size": "750g"
+  }, 
+  {
+    "Product": "Plastic", 
+    "Menuid": 3, 
+    "Cost": 0, 
+    "Link": "", 
+    "ID": 15, 
+    "Size": ""
+  }
+]
+}
